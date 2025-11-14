@@ -3,16 +3,17 @@ Jord's XCPC code repository.  Solutions for ACM-ICPC/CCPC style problems.  Focus
 
 ```
 .
-├── Codeforces/
-│   ├── 105657/
+├── codeforces/
+│   ├── 2104/
 │   │   ├── a.cpp
-│   │   ├── a.py
-│   │   └── b.cpp
+│   │   ├── b.cpp
+│   │   └── c.py
+│   ├── 2107/
 │   ├── 105386/
-│   └── 2104/
-├── Nowcoder/
-├── Luogu/
-├── Templates/
+│   └── 105657/
+├── luogu/
+├── nowcoder/
+├── templates/
 │   ├── segment-tree.cpp
 │   ├── dsu.cpp
 │   ├── graph/
